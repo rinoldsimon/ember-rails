@@ -23,3 +23,8 @@ starting the client
  cd ember
  
  ember server --proxy http://localhost:3000
+
+switch to
+=========
+
+ localhost:4200
